@@ -2,6 +2,7 @@
 
 ## Running your Grafana container
 
+
 Start your container binding the external port `3000`.
 
 ```bash
@@ -41,3 +42,7 @@ Further documentation can be found at http://docs.grafana.org/installation/docke
 
 ### v3.1.1
 * Make it possible to install specific plugin version https://github.com/grafana/grafana-docker/issues/59#issuecomment-260584026
+
+
+
+---
